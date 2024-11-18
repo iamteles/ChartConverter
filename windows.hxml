@@ -2,7 +2,7 @@
 --dce full
 --cpp export
 --main Main
--lib moonchart
+-lib moonchart-doido
 -D HAXE_OUTPUT_FILE=ChartConverter
 
 -D HXCPP_CHECK_POINTER
